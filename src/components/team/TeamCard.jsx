@@ -42,7 +42,7 @@ const TeamCard = () => {
               <i className="fab fa-instagram icon"><FontAwesomeIcon  icon={faInstagram } /> </i>
               <i className="fab fa-tiktok icon"><FontAwesomeIcon  icon={faTiktok } /></i>
             </div>
-            <i className="fab fa-tiktok icon" style={{position:'relative',left:'300px',top:'-25px',background:'#000',color:'#fff',width:'50px'}}><FontAwesomeIcon  icon={faTiktok } /></i>
+           
           </div>
           <div className="details">
             <h2>{val.name}</h2>
